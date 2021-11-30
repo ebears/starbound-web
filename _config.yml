@@ -1,6 +1,18 @@
 # --- Jekyll Config --- 
-
+# Name of website
 name: Starbound Server
+
+# Your name to show in the footer
+author: debears
+
+# --- List of links in the navigation bar --- #
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+
 url: "https://starbound.debears.org"
 remote_theme: daattali/beautiful-jekyll
 collections_dir: collections
@@ -8,31 +20,96 @@ collections_dir: collections
 # Color scheme supports "light" (default) and "dark"
 color_scheme: light
 
-logo: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
+# --- Logo --- #
 
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: false
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
 
-# Aux links for the upper right navigation
-aux_links:
-  "⬇️ Download Modpack":
-    - "//files.debears.org/filebrowser/api/public/dl/fbc8mCMv"
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: false
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+title-img: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
 
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-# Supports true (default) or false
-heading_anchors: true
+# --- Footer social media links --- #
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+#  email: "someone@example.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
+#  medium: yourname
+#  reddit: yourname
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
+#  discord: invite/invite_code or users/userid 
 
-# Footer content
-# appears at the bottom of every page's main content
-# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
-footer_content: ""
-  
+# --- General options --- #
+
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: false
+  facebook: false
+  linkedin: false
+  vk: false
+
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
+
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: false
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: false
+
+# Add a search button to the navbar
+post_search: false
+
+# --- Colours / background image --- #
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+# Alternatively, the navbar, footer, and page background can be set to an image
+# instead of colour
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
+
+# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
+#mobile-theme-col: "#0085A1"
+
 # --- Misc ---
+# Ruby Date Format to show dates of posts
+date_format: ""
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
