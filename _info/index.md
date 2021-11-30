@@ -1,0 +1,3 @@
+### 📌 Info about the Server
+
+...
