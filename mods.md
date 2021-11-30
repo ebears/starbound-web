@@ -4,9 +4,6 @@ has_children: false
 nav_order: 2
 ---
 
-# Another page
+# ✨ Server Modpack (Required)
 
-Test this
-
-
-blah
+Extract the 'mods' folder to the main directory of your Starbound installation.
