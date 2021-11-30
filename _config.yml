@@ -4,7 +4,6 @@
 name: Starbound Server
 url: "https://ebears.github.io/starbound.web/"
 remote_theme: pmarsceill/just-the-docs
-site_favicon: favicon.ico
 
 color_scheme: dark
 logo: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
