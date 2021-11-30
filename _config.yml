@@ -74,10 +74,8 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 collections:
   # Define a collection named "docs", its documents reside in the "_docs" directory
   info:
-    permalink: "/:collection/:path/"
     output: true
   mods:
-    permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
