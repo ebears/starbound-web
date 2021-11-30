@@ -1,11 +1,14 @@
 # --- Jekyll Config --- 
-# Name of website
 name: Starbound Server
 url: "https://starbound.debears.org"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+color_scheme: "light"
 search_enabled: false
 logo: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
+aux_links:
+  "⬇️Download Modpack":
+    - "//files.debears.org/filebrowser/api/public/dl/fbc8mCMv"
+aux_links_new_tab: false
 
 # --- Misc ---
 
