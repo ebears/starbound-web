@@ -19,10 +19,10 @@ gh_edit_link: false
 
 collections:
   modpack:
-    permalink: "#-server-modpack-required"
+    permalink: "https://starbound.debears.org/#-server-modpack-required"
     output: true
   info:
-    permalink: "#-info-about-the-server"
+    permalink: "https://starbound.debears.org/#-info-about-the-server"
     output: true
 
 just_the_docs:
