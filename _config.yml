@@ -2,7 +2,6 @@
 # Name of website
 name: Starbound Server
 url: "https://starbound.debears.org"
-collections_dir: collections
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: false
