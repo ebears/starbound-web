@@ -1,13 +1,12 @@
 # --- Jekyll Config --- 
 
-# Name of website
 name: Starbound Server
 url: "https://starbound.debears.org"
 remote_theme: pmarsceill/just-the-docs
 collections_dir: collections
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+color_scheme: light
 
 logo: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
 
