@@ -18,18 +18,18 @@ gh_edit_link: false
 # --- Misc ---
 
 collections:
-  docs:
-    permalink: "/:collection/:path/"
+  modpack:
+    permalink: "#-server-modpack-required"
     output: true
-  tutorials:
-    permalink: "/:collection/:path/"
+  info:
+    permalink: "#-info-about-the-server"
     output: true
 
 just_the_docs:
   collections:
-    docs:
-      name: Documentation
-    tutorials:
+    modpack:
+      name: Modpack
+    info:
       name: Tutorials
 
 # Output options (more information on Jekyll's site)
