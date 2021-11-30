@@ -17,6 +17,21 @@ gh_edit_link: false
 
 # --- Misc ---
 
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+  tutorials:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+    tutorials:
+      name: Tutorials
+
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 markdown: kramdown
