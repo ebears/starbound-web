@@ -1,75 +1,14 @@
 # --- Jekyll Config --- 
 # Name of website
 name: Starbound Server
-
-# Your name to show in the footer
-author: debears
-
-# --- List of links in the navigation bar --- #
-navbar-links:
-#  About Me: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
-
 url: "https://starbound.debears.org"
-remote_theme: daattali/beautiful-jekyll
 collections_dir: collections
-
-# --- Logo --- #
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-title-img: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
-
-# --- General options --- #
-
-# Select which social network share links to show in posts
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
-  vk: false
-
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
-
-# Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
-
-# Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
-
-# Add a search button to the navbar
-post_search: false
-
-# --- Colours / background image --- #
-# Personalize the colours in your website. Colour values can be any valid CSS colour
-navbar-col: "#282a36"
-navbar-text-col: "#44475a"
-navbar-border-col: "#282a36"
-page-col: "#282a36"
-text-col: "#f8f8f2"
-link-col: "#ff79c6"
-hover-col: "#50fa7b"
-footer-col: "#282a36"
-footer-border-col: "#282a36"
-footer-text-col: "#44475a"
-footer-link-col: "#6272a4"
-footer-hover-col: "#ffb86c"
-
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
-
-# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false
+logo: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
 
 # --- Misc ---
-# Ruby Date Format to show dates of posts
-date_format: ""
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
