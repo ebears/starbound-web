@@ -3,7 +3,12 @@
 # Name of website
 name: Starbound Server
 url: "https://ebears.github.io/starbound.web/"
-remote_theme: samanyougarg/hanuman
+remote_theme: longpdo/neumorphism
+
+theme_config:
+  lang: en-US
+  title: Starbound Server
+  description: Just a server
 
 # --- Misc ---
 
