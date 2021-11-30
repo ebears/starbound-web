@@ -3,7 +3,7 @@
 # Name of website
 name: Starbound Server
 url: "https://ebears.github.io/starbound.web/"
-remote_theme: pages-themes/minimal
+remote_theme: pmarsceill/just-the-docs
 
 # --- Misc ---
 
