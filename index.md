@@ -4,7 +4,7 @@
 
 ### ✨ Server Modpack (Required)
 
-[⬇️Download](https://files.debears.org/filebrowser/share/fbc8mCMv) // Extract the 'mods' folder to the main directory of your Starbound installation.
+Extract the 'mods' folder to the main directory of your Starbound installation.
 
 ### 📌 Info about the Server
 
