@@ -41,7 +41,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "⬇️ Download Modpack":
-    - "//files.debears.org/filebrowser/share/fbc8mCMv"
+    - "//files.debears.org/filebrowser/api/public/dl/fbc8mCMv"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
