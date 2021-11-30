@@ -2,7 +2,7 @@
 
 name: Starbound Server
 url: "https://starbound.debears.org"
-remote_theme: pmarsceill/just-the-docs
+remote_theme: daattali/beautiful-jekyll
 collections_dir: collections
 
 # Color scheme supports "light" (default) and "dark"
