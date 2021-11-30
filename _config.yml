@@ -4,12 +4,15 @@
 name: Starbound Server
 url: "https://ebears.github.io/starbound.web/"
 remote_theme: pmarsceill/just-the-docs
+
+# Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
 logo: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
+search_enabled: false
 
 search:
   # Split pages into sections that can be searched individually
@@ -52,7 +55,7 @@ heading_anchors: true
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: ""
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -60,28 +63,41 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
-gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_link_text: "View this page on GitHub."
+gh_edit_repository: "https://github.com/ebears/starbound-web" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
-# --- Misc ---
-
+# Define Jekyll collections
 collections:
-  modpack:
-    permalink: "https://starbound.debears.org/#-server-modpack-required"
-    output: true
+  # Define a collection named "docs", its documents reside in the "_docs" directory
   info:
-    permalink: "https://starbound.debears.org/#-info-about-the-server"
+    permalink: "/:collection/:path/"
+    output: true
+  mods:
+    permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
+  # Define which collections are used in just-the-docs
   collections:
-    modpack:
-      name: Modpack
+    # Reference the "docs" collection
     info:
-      name: Tutorials
+      # Give the collection a name
+      name: Info
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    mods:
+      name: Mods
+      nav_exclude: false
+      search_exclude: false
+      
+# --- Misc ---
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
