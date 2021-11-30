@@ -5,6 +5,16 @@ name: Starbound Server
 url: "https://ebears.github.io/starbound.web/"
 remote_theme: pmarsceill/just-the-docs
 
+color_scheme: dark
+logo: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
+search_enabled: false
+aux_links:
+aux_links_new_tab: false
+heading_anchors: true
+footer_content:
+last_edit_timestamp: false
+gh_edit_link: false
+
 # --- Misc ---
 
 # Output options (more information on Jekyll's site)
