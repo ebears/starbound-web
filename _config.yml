@@ -5,6 +5,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: false
 logo: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
+heading_anchors: false
 aux_links:
   "⬇️Download Modpack":
     - "//files.debears.org/filebrowser/api/public/dl/fbc8mCMv"
