@@ -2,13 +2,13 @@
 name: Starbound Server
 url: "https://starbound.debears.org"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "light"
+color_scheme: "dark"
 search_enabled: false
-logo: "https://i.ibb.co/0Md6WK5/hd-starbound-protectorate-logo-by-zeminio-dc8p07x-fullview.png"
+logo: "protectorate.png"
 heading_anchors: false
 aux_links:
-  "⬇️Download Modpack":
-    - "//files.debears.org/filebrowser/api/public/dl/fbc8mCMv"
+  "⬇️Download Modpack (Primary Link)":
+    - "//drive.google.com/u/0/uc?export=download&confirm=HjCC&id=139nlH235YnqkVfewnJnNqymN_GNvIZCa"
 aux_links_new_tab: false
 
 # --- Misc ---
