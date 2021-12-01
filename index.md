@@ -4,10 +4,10 @@ has_children: false
 nav_order: 1
 ---
 
-# 🚀 Starbound Dedicated Server
+# 🚀 The Island's Starbound Dedicated Server
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/211820/capsule_616x353.jpg?t=1611668796"/>
 
-This website is to provide info for my dedicated Starbound server.
+This website is to provide info for our Discord's dedicated Starbound server.
 
 ## 💤 Info about the Server
 
