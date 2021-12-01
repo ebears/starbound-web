@@ -4,7 +4,7 @@ has_children: false
 nav_order: 3
 ---
 
-# How to Connect
+# 🔌 How to Connect
 
 In order to connect to the server, you first must enable **Allow Assets Mismatch** in the options menu when in Starbound.
 
