@@ -1,5 +1,5 @@
 # --- Jekyll Config --- 
-name: Starbound Server
+name: The Island | Starbound Server
 url: "https://starbound.debears.org"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
@@ -7,8 +7,8 @@ search_enabled: true
 logo: "protectorate.png"
 heading_anchors: false
 aux_links:
-  "⬇️Modpack Version 1.0.0 Download":
-    - "//drive.google.com/file/d/1op9GHUmhHFdxY3drWEjqwEUHSesYozwr/view?usp=sharing"
+  "⬇️Modpack Version 1.1.0 Download":
+    - "//drive.google.com/file/d/1V3eHzatV5z124mU9rfEVlAAMAKgrQKMb/view?usp=sharing"
 aux_links_new_tab: true
 
 # --- Misc ---
