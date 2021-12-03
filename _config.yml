@@ -2,7 +2,7 @@
 name: Starbound Server
 url: "https://starbound.debears.org"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "auto"
+color_scheme: "light"
 search_enabled: true
 logo: "protectorate.png"
 heading_anchors: false
