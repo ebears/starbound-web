@@ -6,6 +6,17 @@ nav_order: 5
 
 # ⏳ Changelog
 
+### ⛳ Feb. 21 2022 - Version 2.0.0
+
+Big fucking update lesss goooo. Created a .pak file to improve efficiency and loadtimes.
+
+#### Added
+
+- Massive compatibility update
+- Updated Frackin' Universe to 6.1.462.
+
+#### Removed
+
 ### ⛳ Dec. 3 2021 - Version 1.1.0
 
 #### Added
