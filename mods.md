@@ -5,6 +5,8 @@ nav_order: 2
 ---
 
 # ✨ Server Modpack (Required)
+<img src="media/ChadNom.png"/>
+
 #### ⚠️ Before Installation
 *It's important that you unsubscribe to all Starbound mods on the Steam Workshop. You should also make sure the 'mods' folder in the main directory of your Starbound installation is empty.*
 
@@ -21,6 +23,7 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/493528662914569689/ADC419A312399AAC42CDA6E6A94F06CEBDA139CD/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Borderlands Items Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=745076162)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/449618280664998335/019FF3CE9595F138B22453904ACC50D171A6D425/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Citybound](https://steamcommunity.com/sharedfiles/filedetails/?id=742434873)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/787413410856895783/6E40ABEF3B541FF9EF1346B0D037FD3AFDA9C4AF/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>CN More Farming: Revitalization](https://steamcommunity.com/workshop/filedetails/?id=927259833)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/948464658786151357/41CDE636543146E837ED82EB88F53BE3E1E21CF2/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Elithian Races Mod](https://steamcommunity.com/workshop/filedetails/?id=850109963)\
 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/862855679982913171/F72768F10857048B4981FC32967879FE8A2D0598/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin' Universe](https://frackinuniverse.miraheze.org/wiki/Main_Page)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/913545907607210052/01F5359258CDF676FC1627F3CC3CA15FCE384942/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin' Music](https://community.playstarbound.com/resources/frackin-music.2284)\
@@ -54,11 +57,13 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1797477031399474614/088B1D283F54CB548B76AD3734043413D3C43BA9/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Bunnykin Race](https://steamcommunity.com/sharedfiles/filedetails/?id=732452461)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/939466413439932432/B143F731A75F03C6BB8C65E1B74B74F38430E99A/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Deerkin Race](https://community.playstarbound.com/resources/deerkin-alpha.5625/)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/906779387270099350/3D6F5D8017673A9A6D70E7116C7DC4071D303A24/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Draconis Race](https://steamcommunity.com/sharedfiles/filedetails/?id=868165595)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/780731239804862540/528F9CBF805EAD1E52D599C4A3BE1129E7332797/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Elunite Race](https://steamcommunity.com/sharedfiles/filedetails/?id=788890408)\
 
 ### Tools
 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1788485368083965631/E56A5FCA7CAD1B7332CE279FF0DCAD29713AA03F/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Back Weapon](https://steamcommunity.com/workshop/filedetails/?id=2636068026)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1595918438105647259/BED3B31785A33E059971EF2A70DC71AC739A656F/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Crew Customization +](https://steamcommunity.com/sharedfiles/filedetails/?id=2017503832)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/275101922739731068/23F53E2CE04F7B5EB5B38AB47B68BE5D737D8919/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Enhanced Matter Manipulator](https://steamcommunity.com/sharedfiles/filedetails/?id=731465268)\
 
 ### UI
 
@@ -85,6 +90,7 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1807610552186100840/F1B8E6C7606E404A90F90B643F5CEB5802366718/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Draconis Tenant Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2483804581)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/922552472641089066/34A3FAE18AECA64F11EEA5DA8BB3532B99DEE021/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Draconis Race Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1370155216)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1755821314295630068/AA35FF2E097CFD868A1A3E292BC8732612C28EEC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Draconis Universal Winged Flight Integration](https://steamcommunity.com/sharedfiles/filedetails/?id=2508457778)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1013819365046856204/C4F88C28F7D5479649DC27AE827878F12C8D8A7E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Elithian Races (github version) Mod: Frackin Universes Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2109242974)\
 
 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/770613257715000099/65FA1478967AE99E4B96655D46D7068BE9F2D73B/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>RPG Growth](https://community.playstarbound.com/resources/rpg-growth.4949)\

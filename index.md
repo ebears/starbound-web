@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # 🚀 The Island's Starbound Server
-<img src="starbound.png"/>
+<img src="media/starbound.png"/>
 
 This website is to provide info for our Discord's dedicated Starbound server.
 
