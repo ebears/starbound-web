@@ -24,9 +24,9 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/449618280664998335/019FF3CE9595F138B22453904ACC50D171A6D425/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Citybound](https://steamcommunity.com/sharedfiles/filedetails/?id=742434873)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/787413410856895783/6E40ABEF3B541FF9EF1346B0D037FD3AFDA9C4AF/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>CN More Farming: Revitalization](https://steamcommunity.com/workshop/filedetails/?id=927259833)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/948464658786151357/41CDE636543146E837ED82EB88F53BE3E1E21CF2/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Elithian Races Mod](https://steamcommunity.com/workshop/filedetails/?id=850109963)\
-
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1759188247844907066/5E39527D4F5A703B1C1A3D3C4F23912ACE01BA04/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Enhanced Storage](https://steamcommunity.com/workshop/filedetails/?id=731220462)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/913545907607210052/01F5359258CDF676FC1627F3CC3CA15FCE384942/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin' Music](https://steamcommunity.com/sharedfiles/filedetails/?id=729492703)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/862855679982913171/F72768F10857048B4981FC32967879FE8A2D0598/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin' Universe](https://frackinuniverse.miraheze.org/wiki/Main_Page)\
-[<img src="https://steamuserimages-a.akamaihd.net/ugc/913545907607210052/01F5359258CDF676FC1627F3CC3CA15FCE384942/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin' Music](https://community.playstarbound.com/resources/frackin-music.2284)\
 
 ### Mechanics
 
@@ -42,6 +42,8 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/912416928320424177/AD78D3C7AD5596E1ECBBAC3742FB0E090AE4D660/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Animation Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1345186618)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1048722914452091161/830EF0D37B51A1C9A04CB5A0DAA7DEB4AAB7F703/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Better Ship Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2116201964)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/198553890099132692/FAE62583B02276EA7B099F615E47128282A19A49/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Dramatic Terrain](https://steamcommunity.com/sharedfiles/filedetails/?id=820860996)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/829073734724384625/906FEAE55F3FB2F9A2C6826748D97C2AC2E6715C/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Extra Zoom Levels](https://steamcommunity.com/sharedfiles/filedetails/?id=729791646)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/856102417390444116/E3BC0FF9A006626CE150BF5A44C9497A4ABC931F/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Fixed Critters](https://steamcommunity.com/sharedfiles/filedetails/?id=1119973779)\
 
 ### Music
 
@@ -58,6 +60,7 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/939466413439932432/B143F731A75F03C6BB8C65E1B74B74F38430E99A/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Deerkin Race](https://community.playstarbound.com/resources/deerkin-alpha.5625/)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/906779387270099350/3D6F5D8017673A9A6D70E7116C7DC4071D303A24/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Draconis Race](https://steamcommunity.com/sharedfiles/filedetails/?id=868165595)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/780731239804862540/528F9CBF805EAD1E52D599C4A3BE1129E7332797/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Elunite Race](https://steamcommunity.com/sharedfiles/filedetails/?id=788890408)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/218815564729000433/BE50CF23A265E34BC8A0DF8BC3A57C312B74BE53/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Felin Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729429063)\
 
 ### Tools
 
@@ -70,6 +73,10 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1778335635840419461/77E3949DD61440DE3F2AB756ECC17F5E3BA45248/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Bigger Mods Screen](https://steamcommunity.com/sharedfiles/filedetails/?id=2467975871)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/929312308092628358/8668FEBF915E0D7FFDE3407A868CE4BA86F9DCCF/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>bk3k's Inventory](https://steamcommunity.com/workshop/filedetails/?id=882900100)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/949585287387483479/80854A61474F04B3C63C35122176C5585788E1CE/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Chat 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=1495935387)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/446238244534114385/3977BF55E17D5A7B282D15511068FCA60F3D6F72/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Extended Songbook](https://steamcommunity.com/sharedfiles/filedetails/?id=729427264)\
+[Frackin' Action Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=821455287)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/906780338889672670/CB7BDD4DE06596C2E18DF1F0D52BB3416E7C4D53/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin' Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=1264107917)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1765950278053638700/AADA3A170811524FAD607F7601608EC5DC63B91B/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin' Stations Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=1988654567)\
 
 ### Patches
 
@@ -91,6 +98,13 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/922552472641089066/34A3FAE18AECA64F11EEA5DA8BB3532B99DEE021/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Draconis Race Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1370155216)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1755821314295630068/AA35FF2E097CFD868A1A3E292BC8732612C28EEC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Draconis Universal Winged Flight Integration](https://steamcommunity.com/sharedfiles/filedetails/?id=2508457778)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1013819365046856204/C4F88C28F7D5479649DC27AE827878F12C8D8A7E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Elithian Races (github version) Mod: Frackin Universes Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2109242974)\
+[Enhanced Storage Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2155713859)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/785251185548011073/3630E2850B8CD04F1C04D9249BFC8D6DA54D4AB9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin Crew Size - 99 Crew Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1813363209)\
+[FU BYOS Modded Race Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1194878261)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1756935626103003035/4188EB34CFB2B15B0F50BC4D44CA32F6E60C90E3/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin' Universe - Elithian BYOS Ships](https://steamcommunity.com/sharedfiles/filedetails/?id=2375270402)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1294171767370234288/780CF4A499F8EFF8CB137DE5E36493B0C1116B9F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Frackin Universe - Elithian Races Food Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1830331069)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1773847679461893105/05E482C91DDBB56A73FE5BE315CB34707FCF8E2F/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Fullbright Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=2628213443)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1773847679461920920/1DFFA4AF65D71D5532C7EBD7354B9E7A2340A12A/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Fullbright Flora](https://steamcommunity.com/sharedfiles/filedetails/?id=2628218117)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1773847679461952964/9B1D453C10397B1F7A067CFBEED056C9CF6DDA29/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Fullbright Monsters](https://steamcommunity.com/sharedfiles/filedetails/?id=2628222548)\
 
-
-[<img src="https://steamuserimages-a.akamaihd.net/ugc/770613257715000099/65FA1478967AE99E4B96655D46D7068BE9F2D73B/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>RPG Growth](https://community.playstarbound.com/resources/rpg-growth.4949)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1698402148185585816/E166100A13A3C59737B03F2E6F41463B0B73A066/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="15"/>Shoggoth BYOS Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2524837900)\
