@@ -14,6 +14,10 @@ Big fucking update lesss goooo. Created a .pak file to improve efficiency and lo
 
 - Massive compatibility update
 - Updated Frackin' Universe to 6.1.462.
+- Updated various other mods to latest version.
+- [Futara's Dragon Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1958993491)
+- [Betabound](https://steamcommunity.com/sharedfiles/filedetails/?id=2010607826)
+- [Borderlands Random-Gen Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=946515757)
 
 #### Removed
 
