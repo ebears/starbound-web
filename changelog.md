@@ -24,11 +24,27 @@ Big fucking update let's goooo. Organized mod folder, and created a .pak file fo
 - [Player Dances and Emotes +](https://steamcommunity.com/sharedfiles/filedetails/?id=2610791774)
 - [AFK Extension](https://steamcommunity.com/sharedfiles/filedetails/?id=1638841333)
 - [Better (C) Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=1589121567)
+- [Better (C) Pick Ups](https://steamcommunity.com/sharedfiles/filedetails/?id=1624535752)
+- [Slightly Starrier](https://steamcommunity.com/sharedfiles/filedetails/?id=1289960519)
+- [Better Strings](https://steamcommunity.com/sharedfiles/filedetails/?id=2718342986)
+- [Un-Troll Your Strange Seas](https://steamcommunity.com/sharedfiles/filedetails/?id=2670602421)
+- [Frackin Universe: Make Strange Seas Random Again](https://steamcommunity.com/workshop/filedetails/?id=1923467796)
+- [Anom's Outpost Overhaul - Project Redemption Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2672213160)
+- [Flame Trap Damage Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2647014626)
+- [Compact Crafting](https://steamcommunity.com/sharedfiles/filedetails/?id=2425110660)
+- [The Lottery](https://steamcommunity.com/sharedfiles/filedetails/?id=1131927758)
+- [Anom's Outpost Overhaul - The Lottery Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2468896437)
 
 #### Removed
 
 - I don't remember lol, removed a few mods tho
 - [Player Dances and Emotes](https://steamcommunity.com/sharedfiles/filedetails/?id=1253782150)
+- Replaced [Stardust Core](https://steamcommunity.com/workshop/filedetails/?id=764887546) with [Stardust Core Lite](https://steamcommunity.com/workshop/filedetails/?id=2512589532) -- Stardust Core has too many unneccessary, optional features.
+- [StarTech - Stardust Technologies](https://steamcommunity.com/sharedfiles/filedetails/?id=764888606) -- Requires Stardust Core
+- [StarTech Draconis Fuel Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2607280168)
+- [Frackin' Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=1264107917) -- Incompatible and also kind of uggo honestly
+- [Frackin' Stations Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=1988654567)
+
 
 ### ⛳ Dec. 3 2021 - Version 1.1.0
 
