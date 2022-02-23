@@ -14,7 +14,6 @@ Big fucking update let's goooo. Organized mod folder, and created a .pak file fo
 
 - Updated Frackin' Universe to 6.1.462.
 - Updated various other mods to latest version.
-- [Futara's Dragon Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1958993491)
 - [Betabound](https://steamcommunity.com/sharedfiles/filedetails/?id=2010607826)
 - [Borderlands Random-Gen Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=946515757)
 - [Planet Navigation Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2613620322)
@@ -34,6 +33,35 @@ Big fucking update let's goooo. Organized mod folder, and created a .pak file fo
 - [Compact Crafting](https://steamcommunity.com/sharedfiles/filedetails/?id=2425110660)
 - [The Lottery](https://steamcommunity.com/sharedfiles/filedetails/?id=1131927758)
 - [Anom's Outpost Overhaul - The Lottery Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2468896437)
+- [Stackable Reward Bags and Blueprints](https://steamcommunity.com/sharedfiles/filedetails/?id=2599672152)
+- [The Bookstore](https://steamcommunity.com/sharedfiles/filedetails/?id=1108897518)
+- [Anom's Outpost Overhaul - Bookstore Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2468896248)
+- [Codex - A Bookstore Addon](https://steamcommunity.com/workshop/filedetails/?id=1109790315)
+- [Project Redemption-Bookstore Compat](https://steamcommunity.com/sharedfiles/filedetails/?id=2151304194)
+- [Terramart Pet Supplies](https://steamcommunity.com/sharedfiles/filedetails/?id=1285230837)
+- [Title Screen Music Restoration](https://steamcommunity.com/sharedfiles/filedetails/?id=2287605245)
+- [Tooltip Tweak [Responsive]](https://steamcommunity.com/sharedfiles/filedetails/?id=747652399)
+- [XS Mechs - Vehicle Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=729428991)
+- [XS Mechs Modular Weapons - Mech Table Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2393174911)
+- [You are NOT a Protector](https://steamcommunity.com/sharedfiles/filedetails/?id=2168072488)
+- [Armok's Assorted Mod Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=2579660173)
+- [Scripted Artificial Intelligence Lattice (Customisable A.I.!)](https://steamcommunity.com/sharedfiles/filedetails/?id=947429656)
+- [S.A.I.L. Chips Megapack](https://steamcommunity.com/sharedfiles/filedetails/?id=947922190)
+- [Idle Factories](https://steamcommunity.com/sharedfiles/filedetails/?id=1426417593)
+- [Idle Factories: Elithian Add-on Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1434800593)
+- [Idle Factories: Frackin Add-on Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1577199553)
+- [Learn Blueprints on Scan](https://steamcommunity.com/sharedfiles/filedetails/?id=879213535)
+- [Pandora's Box](https://steamcommunity.com/sharedfiles/filedetails/?id=1117792278)
+- [Pandora's Box - Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=2107168260)
+- [Pandora's Box RPG Growth Patch (FU and Non)](https://steamcommunity.com/sharedfiles/filedetails/?id=2456378434)
+- [Swimsuits Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1980526340)
+- [Pimp My Ride](https://steamcommunity.com/sharedfiles/filedetails/?id=896508953)
+- [Anom's Outpost Overhaul - Pimp My Ride Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2469216601)
+- [antrUtilityLib](https://steamcommunity.com/workshop/filedetails/?id=2144215143)
+- [Player Voice](https://steamcommunity.com/sharedfiles/filedetails/?id=2608061089)
+- [Low Health Alarm](https://steamcommunity.com/sharedfiles/filedetails/?id=1086805718)
+- [TrueSpace](https://steamcommunity.com/sharedfiles/filedetails/?id=730684624)
+- [bk3k's Variable Planet Sizes](https://steamcommunity.com/sharedfiles/filedetails/?id=850618279)
 
 #### Removed
 
