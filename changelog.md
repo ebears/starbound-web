@@ -6,6 +6,39 @@ nav_order: 4
 
 # ⏳ Changelog
 
+### ⛳ Feb. 24 2022 - Version 2.1.1
+
+FUCK. Forgot a dependency. Added another fix too.
+
+#### ➕ Added
+
+- [Quickbar Mini](https://steamcommunity.com/workshop/filedetails/?id=1088459034)
+- [Race Traits - Smaller Tooltip](https://steamcommunity.com/sharedfiles/filedetails/?id=2626658985)
+
+### ⛳ Feb. 24 2022 - Version 2.1.0
+
+Anudda update 'cuz I just can't control myself.
+
+#### ➕ Added
+
+- [Updated Quickbar Mini](https://steamcommunity.com/sharedfiles/filedetails/?id=2641776549) -- Replaces [Stardust Core](https://steamcommunity.com/workshop/filedetails/?id=764887546)
+- [Compact Quickbar](https://steamcommunity.com/sharedfiles/filedetails/?id=2480413391)
+- [The Starbound Songbook Mega-Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2682542052)
+- [BK3K Inventory Reskin + 240 Inventory Slot](https://steamcommunity.com/sharedfiles/filedetails/?id=2677637790)
+- [Blurple Cursor](https://steamcommunity.com/sharedfiles/filedetails/?id=2735910676)
+- [Inventory Item Sort](https://steamcommunity.com/sharedfiles/filedetails/?id=2658345722)
+- [Inventory Item Sort: Draconis Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2658347471)
+- [Race Traits](https://steamcommunity.com/workshop/filedetails/?id=2622273194)
+- [Race Traits - NPC Addon](https://steamcommunity.com/workshop/filedetails/?id=2622367894)
+- [Avali Height and Tweaks for Race Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2631671355)
+
+#### ➖ Removed
+
+- [Stardust Core](https://steamcommunity.com/workshop/filedetails/?id=764887546) -- Was causing a few errors and generally seems to be only half-functional. More info can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2660332259)
+- [Stardust UI](https://steamcommunity.com/sharedfiles/filedetails/?id=2580225248)
+- [StarTech - Stardust Technologies](https://steamcommunity.com/sharedfiles/filedetails/?id=764888606)
+- [StarTech Draconis Fuel Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2607280168)
+
 ### ⛳ Feb. 23 2022 - Version 2.0.0
 
 Big fucking update let's goooo. Organized mod folder, and created a .pak file for each mod to improve efficiency and loadtimes.
