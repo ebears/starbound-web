@@ -1,16 +1,16 @@
 ---
 title: Changelog
 has_children: false
-nav_order: 5
+nav_order: 4
 ---
 
 # ⏳ Changelog
 
-### ⛳ TBA - Feb. 2X 2022 - Version 2.0.0
+### ⛳ Feb. 23 2022 - Version 2.0.0
 
 Big fucking update let's goooo. Organized mod folder, and created a .pak file for each mod to improve efficiency and loadtimes.
 
-#### Added
+#### ➕ Added
 
 - Updated Frackin' Universe to 6.1.462.
 - Updated various other mods to latest version.
@@ -62,21 +62,58 @@ Big fucking update let's goooo. Organized mod folder, and created a .pak file fo
 - [Low Health Alarm](https://steamcommunity.com/sharedfiles/filedetails/?id=1086805718)
 - [TrueSpace](https://steamcommunity.com/sharedfiles/filedetails/?id=730684624)
 - [bk3k's Variable Planet Sizes](https://steamcommunity.com/sharedfiles/filedetails/?id=850618279)
+- [Bigger Action Bar(10 slots)](https://steamcommunity.com/sharedfiles/filedetails/?id=853227483)
+- [Better Action Bar & Icons (10 Slots Edition)](https://steamcommunity.com/sharedfiles/filedetails/?id=1824362642)
+- [Carlucci Inventory Mod](https://steamcommunity.com/workshop/filedetails/?id=2053251870)
+- [Carlucci Inventory Mod - Vanilla Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2104810989)
+- [Better Sloped Hull Panel Paint Colours](https://steamcommunity.com/sharedfiles/filedetails/?id=2425274759)
+- [Coal Resprite](https://steamcommunity.com/sharedfiles/filedetails/?id=2428588507)
+- [Combinable Augments](https://steamcommunity.com/sharedfiles/filedetails/?id=739151610)
+- [Imm's Object and Icon Tweaks](https://steamcommunity.com/workshop/filedetails/?id=1579529436)
+- [Simple Racial SAIL for Better Ships](https://steamcommunity.com/sharedfiles/filedetails/?id=1798392271)
+- [EE for Starbound](https://steamcommunity.com/workshop/filedetails/?id=1790667104)
+- [Seed Support for EE for Starbound](https://steamcommunity.com/sharedfiles/filedetails/?id=1818324132)
+- [[Many Tabs] Handcrafting Expansion (1/2)](https://steamcommunity.com/sharedfiles/filedetails/?id=2248892900)
+- [[Many Tabs] Handcrafting Expansion (2/2)](https://steamcommunity.com/workshop/filedetails/?id=2248893812)
+- [Many Tabs - Inventor's Table Mod Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=2479402218)
+- [Extended GUI](https://steamcommunity.com/sharedfiles/filedetails/?id=729426797)
+- [FU + Extended GUI Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1681880007)
+- [Nametags! Rename Items!](https://steamcommunity.com/sharedfiles/filedetails/?id=1944654958)
+- [Many Frogs - Categories and Tabs](https://steamcommunity.com/sharedfiles/filedetails/?id=1111078158)
+- [Protector Frogs - Many Frogs Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1112948315)
+- [Glitchy/Broken Chucklefish Intro](https://steamcommunity.com/sharedfiles/filedetails/?id=2222593173)
+- [Disintegration Death Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2694383533)
+- [AnTiHair](https://steamcommunity.com/sharedfiles/filedetails/?id=730544933)
+- [AnTiMonster](https://steamcommunity.com/sharedfiles/filedetails/?id=730745660)
+- [AnTiVegetation](https://steamcommunity.com/sharedfiles/filedetails/?id=734170655)
+- [Augite's Arcade Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=1923768422)
+- [Anvil Image Fixer](https://steamcommunity.com/sharedfiles/filedetails/?id=2366793353)
+- [Bug Spawn Improvement](https://steamcommunity.com/sharedfiles/filedetails/?id=957164903)
+- [Leggy Mindflayers](https://steamcommunity.com/sharedfiles/filedetails/?id=2599714739)
+- [Leggy Shoggoths: Clean Cut](hhttps://steamcommunity.com/sharedfiles/filedetails/?id=2599712975)
+- [[COLORBOUND] 2014](https://steamcommunity.com/sharedfiles/filedetails/?id=734976375)
+- [[COLORBOUND] 2015](https://steamcommunity.com/sharedfiles/filedetails/?id=734965636)
+- [[COLORBOUND] 2016](https://steamcommunity.com/sharedfiles/filedetails/?id=759046544)
+- [Optimizebound-Advpng](https://steamcommunity.com/sharedfiles/filedetails/?id=2760659051)
+- [Arcane Magus - A Starbound Magic Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2746439524)
+- [Customization Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2704331873)
+- [2.5x Bigger Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=2601393379)
+- [Stardust Core](https://steamcommunity.com/workshop/filedetails/?id=764887546)
+- [Stardust UI](https://steamcommunity.com/sharedfiles/filedetails/?id=2580225248)
+- [StarTech - Stardust Technologies](https://steamcommunity.com/sharedfiles/filedetails/?id=764888606)
+- [StarTech Draconis Fuel Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2607280168)
 
-#### Removed
+#### ➖ Removed
 
 - I don't remember lol, removed a few mods tho
 - [Player Dances and Emotes](https://steamcommunity.com/sharedfiles/filedetails/?id=1253782150)
-- Replaced [Stardust Core](https://steamcommunity.com/workshop/filedetails/?id=764887546) with [Stardust Core Lite](https://steamcommunity.com/workshop/filedetails/?id=2512589532) -- Stardust Core has too many unneccessary, optional features.
-- [StarTech - Stardust Technologies](https://steamcommunity.com/sharedfiles/filedetails/?id=764888606) -- Requires Stardust Core
-- [StarTech Draconis Fuel Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2607280168)
 - [Frackin' Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=1264107917) -- Incompatible and also kind of uggo honestly
 - [Frackin' Stations Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=1988654567)
 
 
 ### ⛳ Dec. 3 2021 - Version 1.1.0
 
-#### Added
+#### ➕ Added
 
 - [Better Ship Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2116201964)
 - [Bigger Mods Screen](https://steamcommunity.com/sharedfiles/filedetails/?id=2467975871)
@@ -88,7 +125,7 @@ Big fucking update let's goooo. Organized mod folder, and created a .pak file fo
 - [Wardrobe - Merr-kin](https://steamcommunity.com/sharedfiles/filedetails/?id=1718613673)
 - [Wardrobe - Zombie Race Mod Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=1372956780)
 
-#### Removed
+#### ➖ Removed
 
 - [Improved Swim Physics](https://steamcommunity.com/sharedfiles/filedetails/?id=1944652363) -- Not working
 
