@@ -31,9 +31,9 @@ Operation: remove log errors. Got rid of some mods that were producing errors. ð
 - [Saturnians](https://steamcommunity.com/workshop/filedetails/?id=1103027918)
 - [Compact Crops: Lumen Plants from The Saturnians](https://steamcommunity.com/sharedfiles/filedetails/?id=2385914603)
 - [More Planet Info - Saturnians Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1733755757)
-- [Saturnian Dyes for Green's Dye Suite](https://steamcommunity.com/sharedfiles/filedetails/?id=1861325139)\
-- [Saturnian Villages on Arcana Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=2375350009)\
-- [Saturnian Villages on Frackin Universe Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=1987370505)\
+- [Saturnian Dyes for Green's Dye Suite](https://steamcommunity.com/sharedfiles/filedetails/?id=1861325139)
+- [Saturnian Villages on Arcana Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=2375350009)
+- [Saturnian Villages on Frackin Universe Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=1987370505)
 
 ### â›³ Feb. 24 2022 - Version 2.1.1
 
