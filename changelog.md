@@ -6,6 +6,35 @@ nav_order: 4
 
 # ⏳ Changelog
 
+### ⛳ Feb. 24 2022 - Version 2.2.0
+
+Operation: remove log errors. Got rid of some mods that were producing errors. 👿 Errors r doodoo
+
+#### ➕ Added
+
+- [Zerotap Dash](https://steamcommunity.com/sharedfiles/filedetails/?id=1933726466)
+
+#### ➖ Removed
+
+- [MicroMachines - FU Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2753666636)
+- [Pandora's Box](https://steamcommunity.com/sharedfiles/filedetails/?id=1117792278)
+- [Project Redemption](https://steamcommunity.com/sharedfiles/filedetails/?id=1397217904)
+- [Stackable Reward Bags and Blueprints](https://steamcommunity.com/sharedfiles/filedetails/?id=2599672152)
+- [Anom's Outpost Overhaul - Project Redemption Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2672213160)
+- [Pandora's Box - Fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=2107168260)
+- [Pandora's Box RPG Growth Patch (FU and Non)](https://steamcommunity.com/sharedfiles/filedetails/?id=2456378434)
+- [Project Redemption-Bookstore Compat](https://steamcommunity.com/sharedfiles/filedetails/?id=2151304194)
+- [Starforge: Project Redemption Integration Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2581675840)
+- [Zerotap Redemption Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2010696770)
+- [Argonian Race Redux](https://steamcommunity.com/workshop/filedetails/?id=740694177)
+- [Felin Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729429063)
+- [Saturnians](https://steamcommunity.com/workshop/filedetails/?id=1103027918)
+- [Compact Crops: Lumen Plants from The Saturnians](https://steamcommunity.com/sharedfiles/filedetails/?id=2385914603)
+- [More Planet Info - Saturnians Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1733755757)
+- [Saturnian Dyes for Green's Dye Suite](https://steamcommunity.com/sharedfiles/filedetails/?id=1861325139)\
+- [Saturnian Villages on Arcana Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=2375350009)\
+- [Saturnian Villages on Frackin Universe Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=1987370505)\
+
 ### ⛳ Feb. 24 2022 - Version 2.1.1
 
 FUCK. Forgot a dependency. Added another fix too.
