@@ -6,6 +6,26 @@ nav_order: 4
 
 # ⏳ Changelog
 
+### ⛳ Feb. 25 2022 - Version 2.5.0
+
+Anudda day, anudda update. The action bar is now on the side of the screen, to hopefully avoid UI element overlap when playing on a higher resolution with the UI scaled higher. Now it doesn't matter if you choose Casual or Survival, both are the same. Zerotap Dash was causing dash to be unable to be used in certain areas.
+
+#### ➕ Added
+
+- [bk3k's Side Action Bar - 10 bar size](https://steamcommunity.com/workshop/filedetails/?id=882899892)
+- [Side Bar Retexture - 10 bar size version](https://steamcommunity.com/sharedfiles/filedetails/?id=1802390895)
+- [Drop On Crouch](https://steamcommunity.com/sharedfiles/filedetails/?id=2663876722)
+- [Enable Hunger for Casual and Remove Drops for Survival](https://steamcommunity.com/sharedfiles/filedetails/?id=2744072603)
+- [Enhanced Party Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=731683297)
+- [FTL Hyperdrive Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=2692360175)
+
+#### ➖ Removed
+
+- [Bigger Action Bar(10 slots)](https://steamcommunity.com/sharedfiles/filedetails/?id=853227483)
+- [Better Action Bar & Icons (10 Slots Edition)](https://steamcommunity.com/sharedfiles/filedetails/?id=1824362642)
+- [Disabled Drop for Survival Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=729746228)
+- [Zerotap Dash](https://steamcommunity.com/sharedfiles/filedetails/?id=1933726466)
+
 ### ⛳ Feb. 24 2022 - Version 2.4.1
 
 Quick fix because an addon was causing the inability to pick up ores.
