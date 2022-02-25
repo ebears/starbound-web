@@ -6,6 +6,19 @@ nav_order: 4
 
 # ⏳ Changelog
 
+### ⛳ Feb. 24 2022 - Version 2.4.0
+
+I gotta chill. Removed a few more mods that probably overlap with Frackin' Universe.
+
+#### ➖ Removed
+
+- [Improved Damage Particles](https://steamcommunity.com/sharedfiles/filedetails/?id=2451489168)
+- [EE for Starbound](https://steamcommunity.com/workshop/filedetails/?id=1790667104)
+- [Seed Support for EE for Starbound](https://steamcommunity.com/sharedfiles/filedetails/?id=1818324132)
+- [EE for Starbound](https://steamcommunity.com/workshop/filedetails/?id=1790667104)
+- [Idle Factories: Elithian Add-on Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1434800593)
+- [Idle Factories: Frackin Add-on Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1577199553)
+
 ### ⛳ Feb. 24 2022 - Version 2.3.0
 
 Sometimes less is more, cuz it's already 'laid on so thic™'.
