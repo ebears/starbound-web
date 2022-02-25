@@ -6,6 +6,15 @@ nav_order: 4
 
 # ⏳ Changelog
 
+### ⛳ Feb. 24 2022 - Version 2.4.1
+
+Quick fix because an addon was causing the inability to pick up ores.
+
+#### ➖ Removed
+
+- [Inventory Item Sort](https://steamcommunity.com/sharedfiles/filedetails/?id=2658345722)
+- [Inventory Item Sort: Draconis Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2658347471)
+
 ### ⛳ Feb. 24 2022 - Version 2.4.0
 
 I gotta chill. Removed a few more mods that probably overlap with Frackin' Universe.
@@ -15,7 +24,6 @@ I gotta chill. Removed a few more mods that probably overlap with Frackin' Unive
 - [Improved Damage Particles](https://steamcommunity.com/sharedfiles/filedetails/?id=2451489168)
 - [EE for Starbound](https://steamcommunity.com/workshop/filedetails/?id=1790667104)
 - [Seed Support for EE for Starbound](https://steamcommunity.com/sharedfiles/filedetails/?id=1818324132)
-- [EE for Starbound](https://steamcommunity.com/workshop/filedetails/?id=1790667104)
 - [Idle Factories: Elithian Add-on Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1434800593)
 - [Idle Factories: Frackin Add-on Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1577199553)
 
