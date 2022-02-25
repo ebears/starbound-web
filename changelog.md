@@ -6,6 +6,44 @@ nav_order: 4
 
 # ⏳ Changelog
 
+### ⛳ Feb. 24 2022 - Version 2.3.0
+
+Sometimes less is more, cuz it's already 'laid on so thic™'.
+
+#### ➖ Removed
+
+- [Betabound](https://steamcommunity.com/sharedfiles/filedetails/?id=2010607826)
+- [bk3k's Variable Planet Sizes](https://steamcommunity.com/sharedfiles/filedetails/?id=850618279)
+- [Galactic Dungeons](https://steamcommunity.com/sharedfiles/filedetails/?id=2009744270)
+- [Galactic Dungeons + Frackin Universe Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2009993372)
+- [Galactic Dungeons + More Planet Info](https://steamcommunity.com/sharedfiles/filedetails/?id=2010914574)
+- [Letheia Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=1987992979)
+- [Shellguard: Starbound Expansion Remastered](https://steamcommunity.com/sharedfiles/filedetails/?id=1563376005)
+- [FU / Shellguard Mech Compatability](https://steamcommunity.com/sharedfiles/filedetails/?id=1686763043)
+- [The Starforge](https://steamcommunity.com/sharedfiles/filedetails/?id=2431875552)
+- [TrueSpace](https://steamcommunity.com/sharedfiles/filedetails/?id=730684624)
+- [RPG Growth](https://steamcommunity.com/sharedfiles/filedetails/?id=1115920474)
+- [BK3K Inventory-RPG Growth Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2658436434)
+- [CN More Farming - RPG Growth Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1495240373)
+- [Recipe Browser RPG Growth - Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2172686376)
+- [RPG Growth: AI](https://steamcommunity.com/sharedfiles/filedetails/?id=1950914592)
+- [RPG Growth Extended Levels](https://steamcommunity.com/workshop/filedetails/?id=2066187287)
+- [RPG Growth FU Recipe Balance Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1952112607)
+- [RPG Growth Tabs & Profession Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2433700417)
+- [Adventurer’s Addons: Loot, Treasure, and Equipment Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2173629563)
+- [Diverse Weather](https://steamcommunity.com/sharedfiles/filedetails/?id=1111827118)
+- [2.5x Bigger Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=2601393379)
+- [Radio Message Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=1812329954)
+- [Optimizebound-Advpng](https://steamcommunity.com/sharedfiles/filedetails/?id=2760659051)
+- [Nametags! Rename Items!](https://steamcommunity.com/sharedfiles/filedetails/?id=1944654958)
+- [CN More Farming: Revitalization](https://steamcommunity.com/workshop/filedetails/?id=927259833)
+- [CN More Farming - Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=928896807)
+- [CN More Farming - Perennial and Compact Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1164999940)
+- [Race Traits](https://steamcommunity.com/workshop/filedetails/?id=2622273194)
+- [Race Traits - NPC Addon](https://steamcommunity.com/workshop/filedetails/?id=2622367894)
+- [Avali Height and Tweaks for Race Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2631671355)
+- [Race Traits - Smaller Tooltip](https://steamcommunity.com/sharedfiles/filedetails/?id=2626658985)
+
 ### ⛳ Feb. 24 2022 - Version 2.2.0
 
 Operation: remove log errors. Got rid of some mods that were producing errors. 👿 Errors r doodoo
