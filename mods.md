@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # ✨ Server Modpack
+
 <img src="media/ChadNom.png"/>
 
 #### ⚠️ Before Installation
@@ -15,6 +16,12 @@ nav_order: 2
 Download the modpack from the top of the page. Extract the 'mods' folder to the main directory of your Starbound installation.
 
 ## ☕ List of Mods
+
+### Custom Mods (made by yours truly 😳)
+
+[Better Sleep](https://steamcommunity.com/sharedfiles/filedetails/?id=752112050) and [No Bed Nudity](https://steamcommunity.com/sharedfiles/filedetails/?id=867218094) combined into a single lua file.\
+[The Island Logo Replacer](media/starbound.png).\
+[What Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=1421523226) but with a modified load order to make it compatible with the mod collection.
 
 ### Expansions
 
@@ -49,7 +56,6 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 ### Mechanics
 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/272849658883293559/35EB87BA7460570CE81DF5B6FD974973D5632973/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Automatic Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=729599895)\
-[<img src="https://steamuserimages-a.akamaihd.net/ugc/268349544294043880/46B070A2CF95593756B049E3D1D3A094B294F051/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Better Sleep](https://steamcommunity.com/sharedfiles/filedetails/?id=752112050)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/492401650192978081/D36F8189998DD6C50ADDD04DE064D84870C0A9DE/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Combinable Augments](https://steamcommunity.com/sharedfiles/filedetails/?id=739151610)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/262717050091301127/534ADA0FEC158187A71F59CB52CDB50D82DA9288/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Compact Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=731044896)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1835775888317598239/3C42E1125D9EDE6D43D88DCAE6548FA925D3A207/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Drop On Crouch](https://steamcommunity.com/sharedfiles/filedetails/?id=2663876722)\
@@ -74,6 +80,7 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/264969216705041745/2C5185D2772DE53D4E0F688BE0F6481AEB365A2D/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>AnTiVegetation](https://steamcommunity.com/sharedfiles/filedetails/?id=734170655)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1654475795579936243/EE414683012E0404EAD1EB50FAED5AC2AB743732/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>antrUtilityLib](https://steamcommunity.com/workshop/filedetails/?id=2144215143)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1764816200831941312/7FE3A59888447A48E0332F30364D1115FF077FAA/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Anvil Image Fixer](https://steamcommunity.com/sharedfiles/filedetails/?id=2366793353)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1716408815745477786/D7F77234FCABE88A303EFE72F2C64C2329CB7F9D/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Armor Lights Full Bright](https://steamcommunity.com/sharedfiles/filedetails/?id=2440256472)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/789749155476942770/1BE90B59AFA55F025BC9D4DE8AE8E299763F97F3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Augite's Arcade Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=1923768422)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1048722914452091161/830EF0D37B51A1C9A04CB5A0DAA7DEB4AAB7F703/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Better Ship Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2116201964)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1746806791405279155/BF559FDA4E14C156C74721C6B06ABB3274FB0F1F/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Better Sloped Hull Panel Paint Colours](https://steamcommunity.com/sharedfiles/filedetails/?id=2425274759)\
@@ -106,10 +113,12 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/491276474688068180/37FA2DD08F616915506A0B3362F0B20780E39010/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>No Weather Blockdamage](https://steamcommunity.com/sharedfiles/filedetails/?id=735010240)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/267220742938956218/5F1E7497F56A87FF1E59F39AAB88BD92AC6C7D4B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Perennial Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=730378641)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1622975069931785358/0423F69373DABFF7C0A569D9C6239D9E79C3F78E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Player Voice](https://steamcommunity.com/sharedfiles/filedetails/?id=2608061089)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1622975225919406440/CDAE5E56A0E848AFCEEFBB5EE0BF267E114B2D6F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Player Voice - Play on All Emotes](https://steamcommunity.com/sharedfiles/filedetails/?id=2611377283)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/445112344627328788/E4BC4253C1FDEB52C25C796B551A636914A56C87/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Purchasable Pets](https://steamcommunity.com/sharedfiles/filedetails/?id=729438381)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1731063481757982341/D15F4AF6BE05F3E083460C2987B14F5BDF47C607/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Rail Platform Lag Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2627391928)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/934929770717097949/461FEF007D88F08807023418CB856119CE524D1C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Slightly Starrier](https://steamcommunity.com/sharedfiles/filedetails/?id=1289960519)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/88222389117619716/75EEDC0E42FD146F0D3DD54E724504F82CB98A55/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Starry Sky](https://steamcommunity.com/sharedfiles/filedetails/?id=874199496)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1698406842536668768/FCD7FEEC311AE18DE74A45EAA3B841A1DA11EF24/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Singing Poptop Loading Logo](https://steamcommunity.com/sharedfiles/filedetails/?id=2574559389)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/854982495376921579/4FAC99982B365CF28F2B95F06EEC9988C272D494/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Sticky Notes](https://steamcommunity.com/sharedfiles/filedetails/?id=1186075435)\
 [<img src="https://community.cloudflare.steamstatic.com/public/images/sharedfiles/steam_workshop_default_image.png" width="34px" height="34px"/>Skippable Cinematics](https://community.playstarbound.com/resources/skippable-cinematics.3730/)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1788486540103459193/D0D29E7C22D77C51AC1CB1D3A866FFD3FEE17BB7/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Swimsuits Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1980526340)\
@@ -174,6 +183,7 @@ Download the modpack from the top of the page. Extract the 'mods' folder to the 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/446238244534112347/B340D5708F284DABAE4D77EDE2F31CF8D031F6F1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Extended GUI](https://steamcommunity.com/sharedfiles/filedetails/?id=729426797)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/446238244534114385/3977BF55E17D5A7B282D15511068FCA60F3D6F72/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Extended Songbook](https://steamcommunity.com/sharedfiles/filedetails/?id=729427264)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1821140548561761388/2A7EC156B358E031D18CFE2208E8935EC27F8C3E/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Fast Beam](https://steamcommunity.com/sharedfiles/filedetails/?id=2681590444)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/271726679844244150/88729B687AC130A358324A26258EB25161F51EC7/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Food Rot Info](https://steamcommunity.com/sharedfiles/filedetails/?id=747784448)\
 [<img src="https://community.playstarbound.com/data/resource_icons/6/6100.jpg?1614598423" width="34px" height="34px"/>Improved Chatbar](https://community.playstarbound.com/resources/improved-chatbar.6100/)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/493527550107640066/017D4123999D0B383382A610EB7306EDE9993B73/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Larger Teleporter Dialog](https://steamcommunity.com/sharedfiles/filedetails/?id=740346781)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/853845093929113034/896DF1A8909CDE3B80862ED0596C6E566BCD1003/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Many Tabs (1/2)](https://steamcommunity.com/workshop/filedetails/?id=1119086325)\

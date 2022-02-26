@@ -20,4 +20,12 @@ In order to connect to the server, go to the multiplayer menu and connect to the
 
 The **server account** and **server password** fields should be left blank.
 
-***Note**: When creating a character, choose Survival for the best experience. Hunger is still enabled, but items are NOT dropped upon death.*
+## 🐥 Gameplay Info
+
+- There's no gameplay difference between Casual and Survival. Hunger is always enabled and only credits, not items, are dropped upon death.
+
+- Frackin' Universe is a BIG mod. The [Wiki](https://frackinuniverse.miraheze.org/wiki/Main_Page) offers a plethora of useful information. You can read more about Frackin' Universe at the [official Github hosted website](https://sayterdarkwynd.github.io/home.html).
+
+- I recommend setting the **Zoom Level** to 2x. In game, select *Options*, then *Graphics*. On the left side of the window, drag the zoom slider to your preference.
+
+- The Quickbar menu in the top right corner contains a lot of useful features, be sure to check them out.

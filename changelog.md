@@ -1,10 +1,27 @@
 ---
 title: Changelog
 has_children: false
-nav_order: 4
+nav_order: 3
 ---
 
 # ⏳ Changelog
+
+### ⛳ Feb. 26 2022 - Version 2.6.0
+
+Mo' patches mo' money.
+
+#### ➕ Added
+
+- [Better Sleep](https://steamcommunity.com/sharedfiles/filedetails/?id=752112050) and [No Bed Nudity](https://steamcommunity.com/sharedfiles/filedetails/?id=867218094) custom patch.
+- [What Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=1421523226) custom patch.
+- [Singing Poptop Loading Logo](https://steamcommunity.com/sharedfiles/filedetails/?id=2574559389) -- he cute.
+- [Food Rot Info](https://steamcommunity.com/sharedfiles/filedetails/?id=747784448)
+- [Armor Lights Full Bright](https://steamcommunity.com/sharedfiles/filedetails/?id=2440256472)
+- [Player Voice - Play on All Emotes](https://steamcommunity.com/sharedfiles/filedetails/?id=2611377283)
+
+#### ➖ Removed
+
+- [Better Sleep](https://steamcommunity.com/sharedfiles/filedetails/?id=752112050) in favour of a custom patch.
 
 ### ⛳ Feb. 25 2022 - Version 2.5.0
 
