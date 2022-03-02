@@ -6,6 +6,16 @@ nav_order: 3
 
 # ⏳ Changelog
 
+### ⛳ Upcoming - Version 2.8.1
+
+Lil' patch.
+
+#### ➕ Added
+
+#### ➖ Removed
+
+- [More threads - Lag reducer - 4-thread edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1107561606). Actually doesn't do anything lol. You can read more [here](https://frackinuniverse.miraheze.org/wiki/Performance#Methods_that_absolutely_never_work).
+
 ### ⛳ Mar. 2 2022 - Version 2.8.0
 
 So much for the optional patch.
