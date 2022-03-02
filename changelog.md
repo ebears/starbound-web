@@ -6,6 +6,32 @@ nav_order: 3
 
 # ⏳ Changelog
 
+### ⛳ Mar. 1 2022 - Version 2.7.0
+
+The Cutebound and QOL patch.
+
+This patch is pretty optional and mostly just contains visual changes. It's up to you whether you want to update. Changes in this patch, however, will be included in future patches.
+
+#### ➕ Added
+
+- Custom difficulty descriptions.
+- [Cutebound Aegi](https://steamcommunity.com/sharedfiles/filedetails/?id=2656849369)
+- [Cutebound Angel](https://steamcommunity.com/sharedfiles/filedetails/?id=2656163935)
+- [Cutebound Apex](https://steamcommunity.com/sharedfiles/filedetails/?id=1669457241)
+- [Cutebound Arachne (Make the Arachne a Cuter Race)](https://steamcommunity.com/sharedfiles/filedetails/?id=1404599095)
+- [Cutebound Arcana](https://steamcommunity.com/sharedfiles/filedetails/?id=2421829571)
+- [Cutebound Avians - Re-Feathered](https://steamcommunity.com/sharedfiles/filedetails/?id=1121823869)
+- [Cutebound Floran](https://steamcommunity.com/sharedfiles/filedetails/?id=1775591755)
+- [Cutebound Glitch](https://steamcommunity.com/sharedfiles/filedetails/?id=1669458665)
+- [Cutebound Human](https://steamcommunity.com/sharedfiles/filedetails/?id=1663815536)
+- [Cutebound Hylotl](https://steamcommunity.com/sharedfiles/filedetails/?id=1663821512)
+- [Cutebound Lamia (Make the Lamia a cuter race)](https://steamcommunity.com/sharedfiles/filedetails/?id=851781339)
+- [Cutebound Orcana (Cuter Orcana)](https://steamcommunity.com/sharedfiles/filedetails/?id=1594662399)
+- [Cute Shoggoths](https://steamcommunity.com/sharedfiles/filedetails/?id=2485434735)
+- [Cutebound Zombie](https://steamcommunity.com/sharedfiles/filedetails/?id=2656850248)
+- [Food Stack](https://steamcommunity.com/sharedfiles/filedetails/?id=729427436)
+- [Party Horn sound effect replaced by PSO2 Rare Drop sound](https://steamcommunity.com/sharedfiles/filedetails/?id=731936268)
+
 ### ⛳ Feb. 26 2022 - Version 2.6.0
 
 Mo' patches mo' money.

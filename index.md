@@ -22,8 +22,6 @@ The **server account** and **server password** fields should be left blank.
 
 ## 🐥 Gameplay Info
 
-- There's no gameplay difference between Casual and Survival. Hunger is always enabled and only credits, not items, are dropped upon death.
-
 - Frackin' Universe is a BIG mod. The [Wiki](https://frackinuniverse.miraheze.org/wiki/Main_Page) offers a plethora of useful information. You can read more about Frackin' Universe at the [official Github hosted website](https://sayterdarkwynd.github.io/home.html).
 
 - I recommend setting the **Zoom Level** to 2x. In game, select *Options*, then *Graphics*. On the left side of the window, drag the zoom slider to your preference.
