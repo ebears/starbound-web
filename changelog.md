@@ -6,6 +6,29 @@ nav_order: 3
 
 # ⏳ Changelog
 
+### ⛳ Mar. 2 2022 - Version 2.8.0
+
+So much for the optional patch.
+
+#### ➕ Added
+
+- Updated [Elithian Races Mod](https://steamcommunity.com/workshop/filedetails/?id=850109963) to Github version.
+- [Alt Heads (Novakid)](https://steamcommunity.com/sharedfiles/filedetails/?id=734168608)
+- [Better Arcade Machines](https://steamcommunity.com/sharedfiles/filedetails/?id=902111753)
+- [Custom Collections UI](https://github.com/NotMrFlibble/CustomCollectionsUI)
+- [Elithian Races (github version) Mod: Frackin Universes Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2109242974)
+- [Enhanced Chat Readability](https://steamcommunity.com/sharedfiles/filedetails/?id=737027388)
+- [Faster Warp](https://steamcommunity.com/sharedfiles/filedetails/?id=729726251)
+- [Feathered Throwback Avian](https://steamcommunity.com/sharedfiles/filedetails/?id=1359148600)
+- [Monster Part Mod Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=736752766)
+- [Obe Monster Parts](https://steamcommunity.com/sharedfiles/filedetails/?id=729626550)
+- [Vibrant Novakids](https://steamcommunity.com/sharedfiles/filedetails/?id=1422582678)
+
+#### ➖ Removed
+
+- [Cutebound Avians - Re-Feathered](https://steamcommunity.com/sharedfiles/filedetails/?id=1121823869)
+- [Elithian Races Mod: Frackin Universes Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1429652829)
+
 ### ⛳ Mar. 1 2022 - Version 2.7.0
 
 The Cutebound and QOL patch.
