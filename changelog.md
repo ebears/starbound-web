@@ -6,7 +6,7 @@ nav_order: 3
 
 # ⏳ Changelog
 
-### ⛳ Jan. 8 2023 - Version 3.0.0 -- *WIP*
+### ⛳ Jan. 8 2023 - Version 3.0.0
 
 Less Mods = More fun 🤯 🦧
 
@@ -17,6 +17,13 @@ Less Mods = More fun 🤯 🦧
 - Updated Anom's Outpost Overhaul to 15 Aug, 2022 version
 - Updated Less Dead Moons - Moon Dungeons to 29 Mar, 2022 version
 - Updated Starbound Patch Project to 1.5.4
+- Updated Back Weapon to 10 Apr, 2022 version
+- Updated Improved Swim Physics to 20 Apr, 2022 version
+- Updated Player Dances and Emotes + to 28 May, 2022 version
+- Updated Recipe Browser to 26 Aug, 2022 version
+- Updated Recipe Browser FU-Patch to 26 Aug, 2022 version
+- Updated Wardrobe Interface to 19 Aug, 2022 version
+- Updated Compact Crafting to 24 Nov, 2022 version
 
 #### ➖ Removed
 
@@ -27,6 +34,7 @@ Less Mods = More fun 🤯 🦧
 - [Halbound](https://steamcommunity.com/sharedfiles/filedetails/?id=2023561138)
 - [XS Mechs: Modular Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=945707062)
 - [XS Mechs - Vehicle Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=729428991)
+- [Low Health Alarm](https://steamcommunity.com/sharedfiles/filedetails/?id=1086805718)
 
 ### ⛳ Mar. 2 2022 - Version 2.8.0
 
