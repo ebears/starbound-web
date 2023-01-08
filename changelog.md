@@ -14,6 +14,10 @@ Less Mods = More fun 🤯 🦧
 
 - Updated Frackin' Universe to 6.3.2
 - Updated Arcana to 1.1.0.6
+- Updated Anom's Outpost Overhaul to 15 Aug, 2022 version
+- Updated Less Dead Moons - Moon Dungeons to 29 Mar, 2022 version
+- Updated Starbound Patch Project to 1.5.4
+
 #### ➖ Removed
 
 - [More threads - Lag reducer - 4-thread edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1107561606). Actually doesn't do anything lol. You can read more [here](https://frackinuniverse.miraheze.org/wiki/Performance#Methods_that_absolutely_never_work).
