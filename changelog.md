@@ -13,6 +13,7 @@ Fixes
 #### ➕ Added
 
 - [(SKC Edit Version) bk3k's Side Action Bar - 10 bar size](https://steamcommunity.com/sharedfiles/filedetails/?id=2568188433)
+- [Wiring Node Resprite](https://steamcommunity.com/sharedfiles/filedetails/?id=2781180334)
 - Updated Wardrobe Interface to 16 Dec, 2022 version
 - Updated Armok's Assorted Mod Fixes to 11 Oct, 2022 version
 
