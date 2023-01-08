@@ -6,15 +6,23 @@ nav_order: 3
 
 # ⏳ Changelog
 
-### ⛳ Upcoming - Version 2.8.1
+### ⛳ Jan. 8 2023 - Version 3.0.0 -- *WIP*
 
-Lil' patch.
+Less Mods = More fun 🤯 🦧
 
 #### ➕ Added
 
+- Updated Frackin' Universe to 6.3.2
+- Updated Arcana to 1.1.0.6
 #### ➖ Removed
 
 - [More threads - Lag reducer - 4-thread edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1107561606). Actually doesn't do anything lol. You can read more [here](https://frackinuniverse.miraheze.org/wiki/Performance#Methods_that_absolutely_never_work).
+- [Arcane Magus - A Starbound Magic Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2746439524)
+- [Borderlands Items Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=745076162)
+- [Borderlands Random-Gen Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=946515757)
+- [Halbound](https://steamcommunity.com/sharedfiles/filedetails/?id=2023561138)
+- [XS Mechs: Modular Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=945707062)
+- [XS Mechs - Vehicle Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=729428991)
 
 ### ⛳ Mar. 2 2022 - Version 2.8.0
 
