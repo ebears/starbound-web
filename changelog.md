@@ -6,6 +6,24 @@ nav_order: 3
 
 # ⏳ Changelog
 
+### ⛳ Jan. 8 2023 - Version 3.0.1
+
+Fixes
+
+#### ➕ Added
+
+- [(SKC Edit Version) bk3k's Side Action Bar - 10 bar size](https://steamcommunity.com/sharedfiles/filedetails/?id=2568188433)
+- Updated Wardrobe Interface to 16 Dec, 2022 version
+- Updated Armok's Assorted Mod Fixes to 11 Oct, 2022 version
+
+#### ➖ Removed
+
+- [bk3k's Side Action Bar - 10 bar size](https://steamcommunity.com/sharedfiles/filedetails/?id=882899892)
+- [Side Bar Retexture - 10 bar size version](https://steamcommunity.com/sharedfiles/filedetails/?id=1802390895)
+- [Frackin XS Mechs](https://steamcommunity.com/sharedfiles/filedetails/?id=2348968660)
+- [XS Mechs : Modular Weapons+ Pack](https://steamcommunity.com/workshop/filedetails/?id=958539829)
+- [XS Mechs Modular Weapons - Mech Table Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2393174911)
+
 ### ⛳ Jan. 8 2023 - Version 3.0.0
 
 Less Mods = More fun 🤯 🦧
