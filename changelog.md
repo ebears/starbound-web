@@ -12,6 +12,7 @@ Less Mods = More fun 🤯 🦧
 
 #### ➕ Added
 
+- [Futara's Dragon Life Character Animation](https://steamcommunity.com/workshop/filedetails/?id=2839701789)
 - Updated Frackin' Universe to 6.3.2
 - Updated Arcana to 1.1.0.6
 - Updated Anom's Outpost Overhaul to 15 Aug, 2022 version
@@ -24,6 +25,7 @@ Less Mods = More fun 🤯 🦧
 - Updated Recipe Browser FU-Patch to 26 Aug, 2022 version
 - Updated Wardrobe Interface to 19 Aug, 2022 version
 - Updated Compact Crafting to 24 Nov, 2022 version
+- Updated Futara’s Dragon Engine to 30 Nov, 2022 version
 
 #### ➖ Removed
 
