@@ -6,6 +6,36 @@ nav_order: 3
 
 # ⏳ Changelog
 
+### ⛳ Jan. 9 2023 - Version 4.0.0
+
+The culling
+
+#### ➕ Added
+
+- [Green's Dye Suite _ FIXED](https://steamcommunity.com/sharedfiles/filedetails/?id=2865957260)
+- Updated [Updated](https://steamcommunity.com/sharedfiles/filedetails/?id=2641776549) (lol) [Quickbar Mini](https://steamcommunity.com/sharedfiles/filedetails/?id=2641776549) to 12 Jun, 2022 version
+- Updated [Compact Quickbar](https://steamcommunity.com/sharedfiles/filedetails/?id=2480413391) to 22 Nov, 2022 version
+
+#### ➖ Removed
+
+- [Arcana](https://steamcommunity.com/workshop/filedetails/?id=2359135864)
+- [Cutebound Arcana](https://steamcommunity.com/sharedfiles/filedetails/?id=2421829571)
+- [Rail Platform Lag Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2627391928) -- Pretty sure this is just a joke mod.
+- [[COLORBOUND] 2014](https://steamcommunity.com/sharedfiles/filedetails/?id=734976375)
+- [[COLORBOUND] 2015](https://steamcommunity.com/sharedfiles/filedetails/?id=734965636)
+- [[COLORBOUND] 2016](https://steamcommunity.com/sharedfiles/filedetails/?id=759046544)
+- [Draconis Race](https://steamcommunity.com/sharedfiles/filedetails/?id=868165595)
+- [Draconis Tenant Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2483804581)
+- [Draconis Race Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1370155216)
+- [Draconis Universal Winged Flight Integration](https://steamcommunity.com/sharedfiles/filedetails/?id=2508457778)
+- [Shoggoth Race Mod & Friends](https://steamcommunity.com/sharedfiles/filedetails/?id=2066322624)
+- [Shoggoth BYOS Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2524837900)
+- [Cute Shoggoths](https://steamcommunity.com/sharedfiles/filedetails/?id=2485434735)
+- [Leggy Mindflayers](https://steamcommunity.com/sharedfiles/filedetails/?id=2599714739)
+- [Leggy Shoggoths: Clean Cut](hhttps://steamcommunity.com/sharedfiles/filedetails/?id=2599712975)
+- [Starry Sky](https://steamcommunity.com/sharedfiles/filedetails/?id=874199496)
+- [Starry Sky(FU+)](https://steamcommunity.com/sharedfiles/filedetails/?id=889490070)
+
 ### ⛳ Jan. 9 2023 - Version 3.1.0
 
 It's *just* a game~!
