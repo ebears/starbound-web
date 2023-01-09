@@ -6,9 +6,21 @@ nav_order: 3
 
 # ⏳ Changelog
 
-### ⛳ Jan. 9 2023 - Version 4.0.1
+### ⛳ Jan. 9 2023 - Version 4.0.2
 
 #### ➕ Added
+
+- [Stardust Core Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2512589532)
+- [Stardust UI](https://steamcommunity.com/sharedfiles/filedetails/?id=2580225248)
+
+#### ➖ Removed
+
+- [Quickbar Mini](https://steamcommunity.com/workshop/filedetails/?id=1088459034)
+- [Updated Quickbar Mini](https://steamcommunity.com/sharedfiles/filedetails/?id=2641776549)
+- [Compact Quickbar](https://steamcommunity.com/sharedfiles/filedetails/?id=2480413391)
+- [Food Stack](https://steamcommunity.com/sharedfiles/filedetails/?id=729427436) -- incompatible with Stardust UI
+
+### ⛳ Jan. 9 2023 - Version 4.0.1
 
 #### ➖ Removed
 
