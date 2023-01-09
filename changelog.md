@@ -6,8 +6,40 @@ nav_order: 3
 
 # ⏳ Changelog
 
-### ⛳ Jan. 8 2023 - Version 3.0.1
+### ⛳ Jan. 9 2023 - Version 3.1.0
 
+It's *just* a game~!
+
+#### ➕ Added
+
+- [Viera Race BYOS locker patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2362425669)
+
+#### ➖ Removed
+
+- [Citybound](https://steamcommunity.com/sharedfiles/filedetails/?id=742434873)
+- [Bug Spawn Improvement](https://steamcommunity.com/sharedfiles/filedetails/?id=957164903)
+- [Avali (Triage) Race Mod](https://steamcommunity.com/workshop/filedetails/?id=729558042)
+- [Avali Camps on Frackin' Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=1432794738)
+- [Avali Cleaning Bot for Purchasable Pets](https://steamcommunity.com/sharedfiles/filedetails/?id=2074802316)
+- [Avali Perennial Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=869900472)
+- [FU + Avali Triage Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2052758462)
+- [Recipe Browser Avali-Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2019615016)
+- [Bunnykin Race](https://steamcommunity.com/sharedfiles/filedetails/?id=732452461)
+- [Deerkin Race](https://community.playstarbound.com/resources/deerkin-alpha.5625/)
+- [Elunite Race](https://steamcommunity.com/sharedfiles/filedetails/?id=788890408)
+- [Merrkin](https://steamcommunity.com/workshop/filedetails/?id=1694719307)
+- [Mollopods](https://steamcommunity.com/sharedfiles/filedetails/?id=2416034527)
+- [Frackin' Mollopods](https://steamcommunity.com/sharedfiles/filedetails/?id=2427232435)
+- [Munari](https://steamcommunity.com/sharedfiles/filedetails/?id=739676461)
+- [Peglaci Rebirth](https://steamcommunity.com/sharedfiles/filedetails/?id=1272073433)
+- [Frackin-Rebirth Peglaci Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1778112669)
+- [Peglaci Perennial Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=1509486928)
+- [Scyphojel, Space Jellyfish](https://steamcommunity.com/sharedfiles/filedetails/?id=2655101811)
+- [Sharkkin - Shark Race](https://steamcommunity.com/sharedfiles/filedetails/?id=2260667955)
+- [Sharkkin FU Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2262354081)
+- [Skelekin Race](https://steamcommunity.com/sharedfiles/filedetails/?id=802291314)
+
+### ⛳ Jan. 8 2023 - Version 3.0.1
 Fixes
 
 #### ➕ Added
