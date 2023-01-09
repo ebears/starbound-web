@@ -6,6 +6,15 @@ nav_order: 3
 
 # ⏳ Changelog
 
+### ⛳ Jan. 9 2023 - Version 4.0.1
+
+#### ➕ Added
+
+#### ➖ Removed
+
+- [Un-Troll Your Strange Seas](https://steamcommunity.com/sharedfiles/filedetails/?id=2670602421)
+- [Frackin Universe: Make Strange Seas Random Again](https://steamcommunity.com/workshop/filedetails/?id=1923467796)
+
 ### ⛳ Jan. 9 2023 - Version 4.0.0
 
 The culling
