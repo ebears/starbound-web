@@ -6,6 +6,20 @@ nav_order: 3
 
 # ⏳ Changelog
 
+### ⛳ Jan. 9 2023 - Version 4.2.0 -- WIP
+
+UI Patch
+
+#### ➕ Added
+
+- [Carlucci Inventory Mod](https://steamcommunity.com/workshop/filedetails/?id=2053251870)
+- [Carlucci Inventory Mod - Vanilla Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2104810989)
+
+#### ➖ Removed
+
+- [bk3k's Inventory](https://steamcommunity.com/workshop/filedetails/?id=882900100)
+- [bk3k Inventory Reskin + 240 Inventory Slot](https://steamcommunity.com/sharedfiles/filedetails/?id=2677637790)
+
 ### ⛳ Jan. 9 2023 - Version 4.1.0
 
 Optimization patch (aka placebo)
