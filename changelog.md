@@ -8,7 +8,7 @@ nav_order: 3
 
 ### ⛳ Jan. 9 2023 - Version 4.2.0 -- WIP
 
-UI Patch
+UI and cleaning Patch
 
 #### ➕ Added
 
@@ -19,6 +19,16 @@ UI Patch
 
 - [bk3k's Inventory](https://steamcommunity.com/workshop/filedetails/?id=882900100)
 - [bk3k Inventory Reskin + 240 Inventory Slot](https://steamcommunity.com/sharedfiles/filedetails/?id=2677637790)
+- [Angels of Starbound](https://steamcommunity.com/workshop/filedetails/?id=1686520464)
+- [Cutebound Angel](https://steamcommunity.com/sharedfiles/filedetails/?id=2656163935)
+- [Lamia Race](https://steamcommunity.com/workshop/filedetails/?id=779096734)
+- [Lamia FR-FU Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1929091560)
+- [Arachne Race](https://steamcommunity.com/sharedfiles/filedetails/?id=1164332913)
+- [Cutebound Arachne (Make the Arachne a Cuter Race)](https://steamcommunity.com/sharedfiles/filedetails/?id=1404599095)
+- [Arachne FU Desc fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2141945203)
+- [Arachne Race - Full Bright Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=2440158897)
+- [Zombie Race Mod Redux](https://steamcommunity.com/workshop/filedetails/?id=953122293)
+- [Cutebound Zombie](https://steamcommunity.com/sharedfiles/filedetails/?id=2656850248)
 
 ### ⛳ Jan. 9 2023 - Version 4.1.0
 
