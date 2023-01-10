@@ -4,7 +4,7 @@ has_children: false
 nav_order: 4
 ---
 
-I don't give a care about the drama a few individuals in the community continue to publicly bring up on their [mod pages](https://steamcommunity.com/sharedfiles/filedetails/?id=2897583378). This has seemingly been going on for *years*.
+I don't care about the drama a few individuals in the community continue to publicly bring up on their [mod pages](https://steamcommunity.com/sharedfiles/filedetails/?id=2897583378). This has seemingly been going on for *years*.
 
 Some of the same individuals upload troll mods. They claim these mods '[work](https://steamcommunity.com/workshop/filedetails/discussion/2627391928/5221353200110036593/)', and apparently delete comments which claim otherwise.
 This has poisoned the well for me, so I have made this page in order to server as a reminder for myself to heavily scrutinize Mods from these creators:

@@ -161,6 +161,12 @@ Custom Difficulty Descriptions.\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/771744554750322496/A1F8B26792E8AE21A495C0458A90C20966FB5923/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Recipe Browser](https://steamcommunity.com/sharedfiles/filedetails/?id=2018183533)\
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/773976175417903333/889F9CF73CD6F809C175C06D0F11A0257C6E3569/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Wardrobe Interface](https://steamcommunity.com/sharedfiles/filedetails/?id=734855062)
 
+### Optimization
+
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1835783974607908403/A8C3AF54F7E16C9577CE5E15AC469DCCE81C5480/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="34px" height="34px"/>Optimizebound-Advpng](https://steamcommunity.com/sharedfiles/filedetails/?id=2760659051)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/93853655094770921/C37B36DBC16CDDF669028F791125A78F9956108E/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Parallax Compression](https://steamcommunity.com/sharedfiles/filedetails/?id=885877773)\
+[<img src="https://steamuserimages-a.akamaihd.net/ugc/1997942439036374447/F3BD265A474F22E473476F49325120AFB63FB177/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="34px" height="34px"/>Quest Manager Optimizer (FU)](https://steamcommunity.com/sharedfiles/filedetails/?id=2914217512)
+
 ### UI
 
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/786361874077444717/28C4A6ADDFFD2888AC3EF88FFE25357E55DDB29C/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="34px" height="34px"/>Better (C) Main Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=1589121567)\

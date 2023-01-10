@@ -6,6 +6,16 @@ nav_order: 3
 
 # ⏳ Changelog
 
+### ⛳ Jan. 9 2023 - Version 4.1.0
+
+Optimization patch (aka placebo)
+
+#### ➕ Added
+
+- [Optimizebound-Advpng](https://steamcommunity.com/sharedfiles/filedetails/?id=2760659051)
+- [Parallax Compression](https://steamcommunity.com/sharedfiles/filedetails/?id=885877773)
+- [Quest Manager Optimizer (FU)](https://steamcommunity.com/sharedfiles/filedetails/?id=2914217512)
+
 ### ⛳ Jan. 9 2023 - Version 4.0.2
 
 #### ➕ Added
