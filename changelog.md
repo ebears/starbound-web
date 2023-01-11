@@ -8,7 +8,7 @@ nav_order: 3
 
 ### ⛳ Jan. 9 2023 - Version 4.2.0 -- WIP
 
-UI and cleaning Patch
+UI and perhaps final clean-up Patch
 
 #### ➕ Added
 
@@ -29,6 +29,9 @@ UI and cleaning Patch
 - [Arachne Race - Full Bright Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=2440158897)
 - [Zombie Race Mod Redux](https://steamcommunity.com/workshop/filedetails/?id=953122293)
 - [Cutebound Zombie](https://steamcommunity.com/sharedfiles/filedetails/?id=2656850248)
+- [Tile Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1483622891)
+- [Tile Tweaks - Tanz Compatibility Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1487455404)
+- [Tanz Tweaks - Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=736040778)
 
 ### ⛳ Jan. 9 2023 - Version 4.1.0
 
