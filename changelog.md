@@ -6,7 +6,61 @@ nav_order: 3
 
 # ⏳ Changelog
 
-### ⛳ Jan. 9 2023 - Version 4.2.0 -- WIP
+### ⛳ Jan. 12 2023 - Version 5.0.0
+
+#### ➕ Added
+
+- Updated [Glowing (Colourful!) Ores: Less Psychedelic Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2576285524) to 7 Sep, 2022 version.
+- [Frackin' Universe - Restored Armor Tooltips](https://steamcommunity.com/sharedfiles/filedetails/?id=2781762005)
+- [Handcrafting Expansion Adjustments](https://steamcommunity.com/sharedfiles/filedetails/?id=2780692766)
+- [Many Tabs Spinning Wheel Addon - Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=2781104442)
+
+#### ➖ Removed
+
+- [Pimp My Ride!](https://steamcommunity.com/sharedfiles/filedetails/?id=896508953)
+- [Scripted Artificial Intelligence Lattice (Customisable A.I.!)](https://steamcommunity.com/sharedfiles/filedetails/?id=947429656)
+- [S.A.I.L. Chips Megapack](https://steamcommunity.com/sharedfiles/filedetails/?id=947922190)
+- [FU/ztarbound S.A.I.L. Modded Race Support](https://steamcommunity.com/sharedfiles/filedetails/?id=1411331676)
+- [Starbound Patch Project](https://steamcommunity.com/sharedfiles/filedetails/?id=1543219534)
+- [Combinable Augments](https://steamcommunity.com/sharedfiles/filedetails/?id=739151610)
+- [Compact Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=731044896)
+- [Animation Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1345186618)
+- [AnTiHair](https://steamcommunity.com/sharedfiles/filedetails/?id=730544933)
+- [AnTiMonster](https://steamcommunity.com/sharedfiles/filedetails/?id=730745660)
+- [AnTiVegetation](https://steamcommunity.com/sharedfiles/filedetails/?id=734170655)
+- [Anvil Image Fixer](https://steamcommunity.com/sharedfiles/filedetails/?id=2366793353)
+- [Better Sloped Hull Panel Paint Colours](https://steamcommunity.com/sharedfiles/filedetails/?id=2425274759)
+- [Better Strings](https://steamcommunity.com/sharedfiles/filedetails/?id=2718342986)
+- [Coal Resprite](https://steamcommunity.com/sharedfiles/filedetails/?id=2428588507)
+- [Dramatic Terrain](https://steamcommunity.com/sharedfiles/filedetails/?id=820860996)
+- [Flame Trap Damage Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2647014626)
+- [Glitchy/Broken Chucklefish Intro](https://steamcommunity.com/sharedfiles/filedetails/?id=2222593173)
+- [Heavier Meteor Impact](https://steamcommunity.com/sharedfiles/filedetails/?id=853627504)
+- [Imm's Object and Icon Tweaks](https://steamcommunity.com/workshop/filedetails/?id=1579529436)
+- [Learn Blueprints on Scan](https://steamcommunity.com/sharedfiles/filedetails/?id=879213535)
+- [No Weather Blockdamage](https://steamcommunity.com/sharedfiles/filedetails/?id=735010240)
+- [Obe Monster Parts](https://steamcommunity.com/sharedfiles/filedetails/?id=729626550)
+- [Perennial Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=730378641)
+- [Purchasable Pets](https://steamcommunity.com/sharedfiles/filedetails/?id=729438381)
+- [Purchasable Elithian Pets](https://steamcommunity.com/sharedfiles/filedetails/?id=2206658869)
+- [Purchasable Pets: Cleaner Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1344199066)
+- [Swimsuits Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1980526340)
+- [Terramart Pet Supplies](https://steamcommunity.com/sharedfiles/filedetails/?id=1285230837)
+- [Themed Colony Deeds](https://steamcommunity.com/sharedfiles/filedetails/?id=730345453)
+- [Vibrant Novakids](https://steamcommunity.com/sharedfiles/filedetails/?id=1422582678)
+- [Anom's Outpost Overhaul - Pimp My Ride Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2469216601)
+- [Compact Crops for FU](https://steamcommunity.com/sharedfiles/filedetails/?id=2265144528)
+- [Enhanced Storage Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2155713859)
+- [Elithian Perennial Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=1433991809)
+- [Elithian Races (github version) Mod: Frackin Universes Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2109242974)
+- [Frackin Crew Size - 99 Crew Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1813363209)
+- [Frackin' Universe Perennial Crops New](https://steamcommunity.com/sharedfiles/filedetails/?id=1558104990)
+- [FU BYOS Modded Race Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1194878261)
+- [Perennial Crops FU Compatibility Patch Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=732277574)
+- [Blurple Cursor](https://steamcommunity.com/sharedfiles/filedetails/?id=2735910676)
+- [Chat 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=1495935387)
+
+### ⛳ Jan. 9 2023 - Version 4.2.0
 
 UI and perhaps final clean-up Patch
 
@@ -416,7 +470,6 @@ Big fucking update let's goooo. Organized mod folder, and created a .pak file fo
 - [Anom's Outpost Overhaul - Bookstore Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2468896248)
 - [Codex - A Bookstore Addon](https://steamcommunity.com/workshop/filedetails/?id=1109790315)
 - [Project Redemption-Bookstore Compat](https://steamcommunity.com/sharedfiles/filedetails/?id=2151304194)
-- [Terramart Pet Supplies](https://steamcommunity.com/sharedfiles/filedetails/?id=1285230837)
 - [Title Screen Music Restoration](https://steamcommunity.com/sharedfiles/filedetails/?id=2287605245)
 - [Tooltip Tweak [Responsive]](https://steamcommunity.com/sharedfiles/filedetails/?id=747652399)
 - [XS Mechs - Vehicle Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=729428991)
