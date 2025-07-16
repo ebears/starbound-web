@@ -31,3 +31,7 @@ The **server account** and **server password** fields should be left blank.
 - I recommend setting the **Zoom Level** to 2x. This may cause a performance drop, but has obvious benefits. In game, select *Options*, then *Graphics*. On the left side of the window, drag the zoom slider to your preference.
 
 - The Quickbar menu in the top right corner contains a lot of useful features, be sure to check them out.
+
+#### 🪧 Mid-2025 Update
+
+Ah, Starbound... source code is now available. Plus, stuff like [OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) now exists. 🤔
