@@ -10,9 +10,7 @@ nav_order: 1
 
 This website is to provide info for our Discord's dedicated Starbound server.
 
-##### 🪧 Mid-2025 Update
-
-*Ah, Starbound... source code is now available. Plus, stuff like [OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) now exists.* 🤔
+🪧 ***Mid-2025 Update:*** *Ah, Starbound... source code is now available. Plus, stuff like [OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) now exists.* 🤔
 
 ## 💤 Info about the Server
 
